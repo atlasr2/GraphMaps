@@ -7,4 +7,4 @@
 ---
 
 - [Data Model](MapsModel.md)
-- [UI Mockups](UX.md)
+- [UI Mockups](UX/readme.md)
