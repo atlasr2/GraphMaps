@@ -17,3 +17,9 @@
 
 As described in the https://github.com/atlasr2/GraphMaps/issues/6, maps, not organisations, will be in the spotlight. When the tool is launched, it will be possible to create a map with one click. Maps should get tags and comments in the beginning. It should be also possible to add a map to a shared context, or name or describe the context itself.
 ![Map List Sketch](images/maplist.png)
+
+Standard document fuctionality here would be welcome:
+ * create, edit, rename, duplicate, delete a map
+ * archive it (without deleting the nodes)
+ * group two maps into one context
+ * sort, search, etc
