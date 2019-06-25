@@ -8,3 +8,12 @@
 
 - [Data Model](MapsModel.md)
 - [UI Mockups](UX/readme.md)
+
+
+
+# Chris'es vision
+
+# Map views
+
+As described in the https://github.com/atlasr2/GraphMaps/issues/6, maps, not organisations, will be in the spotlight. When the tool is launched, it will be possible to create a map with one click. Maps should get tags and comments in the beginning. It should be also possible to add a map to a shared context, or name or describe the context itself.
+![Map List Sketch](images/maplist.png)
